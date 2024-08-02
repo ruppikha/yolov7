@@ -1,5 +1,3 @@
-Here's a `README.md` file for your YOLOv7 project:
-
 ## YOLOv7 Trash Detection Project
 
 This project uses the YOLOv7 architecture for detecting trash objects. The dataset used is provided by Roboflow, and the training is conducted using Google Colab and Google Drive for storage.
